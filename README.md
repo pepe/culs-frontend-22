@@ -31,3 +31,7 @@ Most of the communication will be here.
 * [Vite | Next Generation Frontend Tooling](https://vitejs.dev/)
 * [Frontend Developer Roadmap: Learn to become a modern frontend developer](https://roadmap.sh/frontend)
 * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+
+## Wednesday
+
+* [pepe's glitch](https://glitch.com/edit/#!/better-crocus-end)
