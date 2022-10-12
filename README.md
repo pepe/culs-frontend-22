@@ -19,3 +19,15 @@ Most of the communication will be here.
 * [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 * [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [Glitch: The friendly community where everyone builds the web](https://glitch.com/dashboard)
+
+## Tuesday
+
+* [Learn Programming](https://learnprogramming.online/)
+* [jQuery](https://jquery.com/)
+* [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
+* [React – A JavaScript library for building user interfaces](https://reactjs.org/)
+* [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/)
+* [Elm - delightful language for reliable web applications](https://elm-lang.org/)
+* [Vite | Next Generation Frontend Tooling](https://vitejs.dev/)
+* [Frontend Developer Roadmap: Learn to become a modern frontend developer](https://roadmap.sh/frontend)
+* [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
