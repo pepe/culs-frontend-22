@@ -38,5 +38,5 @@ Most of the communication will be here.
 
 ## Friday
 
-[Test](https://docs.google.com/forms/d/e/1FAIpQLSehV6jrZY7K3naIdpvZTvVNWvtDBfSyqJpVaaKpYvqQZOlD-Q/viewform?usp=sf_link)
+* [Test](https://docs.google.com/forms/d/e/1FAIpQLSehV6jrZY7K3naIdpvZTvVNWvtDBfSyqJpVaaKpYvqQZOlD-Q/viewform?usp=sf_link)
 
