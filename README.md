@@ -35,3 +35,8 @@ Most of the communication will be here.
 ## Wednesday
 
 * [pepe's glitch](https://glitch.com/edit/#!/better-crocus-end)
+
+## Friday
+
+[Test](https://docs.google.com/forms/d/e/1FAIpQLSehV6jrZY7K3naIdpvZTvVNWvtDBfSyqJpVaaKpYvqQZOlD-Q/viewform?usp=sf_link)
+
